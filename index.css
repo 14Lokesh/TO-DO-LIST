@@ -1,0 +1,47 @@
+#container{
+    
+    
+    height: 735px;
+    /* background-color: black; */
+   
+    background-image: url('lokesh1.jpg');
+    /* opacity: 4;
+    
+     z-index: -5; */
+    width: 100%;
+    
+    background-size: cover;
+
+}
+#inner{
+    
+    margin: auto;
+    padding: 10px;
+    
+    font-size:22px;
+    
+   width: 420px;
+   height: 550px;
+    background-color:white;
+    top: 30px;
+    position: relative;
+    border-radius: 5px;
+
+}
+
+h3{
+    font-size: 24px;
+    margin: auto;
+    color: white;
+    width: 420px;
+    top: 10px;
+    position: relative;
+}
+#inputfield{
+    width: 200px;
+    height: 30px;
+}
+#btn{
+    /* width: 200px; */
+    height: 35px;
+}
